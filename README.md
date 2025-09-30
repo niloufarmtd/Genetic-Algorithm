@@ -89,15 +89,3 @@ Cluster analysis comparison studies
 Outlier detection methodology evaluation
 
 High-dimensional data processing
-
- License
-MIT License
-
-text
-
-**GitHub Description (Copy this for repo description):**
-`Genetic Algorithm vs K-Means clustering with advanced outlier detection. Features Z-score/IQR methods, PCA, parallel processing, and performance comparison. Complete data preprocessing pipeline.`
-
-**.gitignore:** Select `Python` template when creating repository
-
-**License:** Select `MIT License` when creating repository
